@@ -1,0 +1,19 @@
+.container {
+  border-radius: 15px;
+  padding: 15px;
+  background-color: beige;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.title {
+  text-align: center;
+}
+
+.text {
+  margin-top: 10px;
+  text-align: center;
+}
